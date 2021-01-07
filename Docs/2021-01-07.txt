@@ -1,0 +1,28 @@
+Practising commands for today :-
+- git show --name-only [commitID] > filesname.patch
+- git add [file]
+to add particular file or directory
+- git add .
+ to add all files and to stage in the directory for commit
+- git commit -m "Some message if required on commit"
+- git commit --amend
+- git reflog 
+ list changes made to the head of the local repo
+- git push remote-repo [branchname]
+- git pull remote-repo
+fetch a branch from remote repo
+-git branch
+-git branch -a
+list all remote branches created
+-git branch [branch]
+create a new branch under the specified name
+- git checkout [branch]
+- git branch -d [branch]
+-git branch -m [new_branchname]
+- git merge [branch]
+-git clean -n
+-git status
+-git log
+-git log --all
+-git log --oneline --graph
+- git diff
