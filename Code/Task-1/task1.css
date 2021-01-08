@@ -1,0 +1,53 @@
+/*Container css*/
+.container
+{ 
+    display: inline-block;
+    border: solid 3px rgb(185, 183, 183);
+    padding:3px;
+    margin-left:15px;
+    margin-top:50px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+
+.containerText{
+    margin-left: 160px;
+    margin-right: 140px;
+}
+
+hr{
+    margin-left: 160px;
+    margin-right: 140px;
+}
+/*image container css in which image and caption will be defined*/ 
+.imgcontainer
+{
+    width:215px;
+    height:345px;
+    background-color: rgb(250, 240, 240);
+}
+/*Here we define css for image*/
+.imagediv
+{
+    width:215px;
+    height:315px;
+    border-radius: 3px;
+}
+
+
+/*Here we applied css for Caption under the image*/
+.imagecaption
+{
+    font-size: medium;
+    font-family:'Arial';
+    text-align: center;
+    color: grey;
+    width:215px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+/*Body css*/
+body{
+
+    text-align: center;
+}
