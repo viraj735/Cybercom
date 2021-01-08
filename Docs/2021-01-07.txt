@@ -25,4 +25,8 @@ create a new branch under the specified name
 -git log
 -git log --all
 -git log --oneline --graph
+<<<<<<< HEAD
 - git diff
+=======
+- git diff
+>>>>>>> origin/Docs

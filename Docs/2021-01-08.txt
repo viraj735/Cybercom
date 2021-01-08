@@ -1,0 +1,17 @@
+Understood the Core of JS
+Understanding the Variables & DataTypes
+Using operators in js 
+
+HTML core concepts all clear
+CSS basic class id and creating external and internal files of css
+
+Code :-
+-Performed first program using
+Variables and DataTypes
+
+- 2 table html practise task which clears the 
+concept of table properties
+
+- 3 problem task given
+ 1 of html for putting caption at the bottom of image
+ 2 of JS basic commands and operators
